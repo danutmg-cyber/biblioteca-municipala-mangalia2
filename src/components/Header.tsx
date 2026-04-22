@@ -4,6 +4,7 @@ const navLinks = [
   { to: '/', label: 'Acasă' },
   { to: '/collections', label: 'Colecții' },
   { to: '/events', label: 'Evenimente' },
+  { to: '/cauta', label: 'Caută carte' },
   { to: '/contact', label: 'Contact' },
 ]
 
